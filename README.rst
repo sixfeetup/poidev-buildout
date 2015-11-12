@@ -13,7 +13,7 @@ Then you need to run::
  $ virtualenv env
  
 This will create an env directory with a virtual environment. You should then
-install the versions of zc.buildout and setuptools you need:
+install the versions of zc.buildout and setuptools you need::
 
  $ env/bin/pip install zc.buildout==2.4.0
  $ env/bin/pip install setuptools==18.4
